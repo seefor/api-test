@@ -1,23 +1,21 @@
-[
-    {
-        "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQw:zues.ftg.net",
-        "config_addr_type": "IPV4",
-        "host_name": "zues.ftg.net",
-        "platform": "VNIOS",
-        "service_type_configuration": "ALL_V4"
-    },
-    {
-        "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQx:hermes.ftg.net",
-        "config_addr_type": "IPV4",
-        "host_name": "hermes.ftg.net",
-        "platform": "VNIOS",
-        "service_type_configuration": "ALL_V4"
-    },
-    {
-        "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQy:apollo.ftg.net",
-        "config_addr_type": "IPV4",
-        "host_name": "apollo.ftg.net",
-        "platform": "VNIOS",
-        "service_type_configuration": "ALL_V4"
-    }
-]
+{
+    "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQw:zues.ftg.net",
+    "config_addr_type": "IPV4",
+    "host_name": "zues.ftg.net",
+    "platform": "VNIOS",
+    "service_type_configuration": "ALL_V4"
+},
+{
+    "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQx:hermes.ftg.net",
+    "config_addr_type": "IPV4",
+    "host_name": "hermes.ftg.net",
+    "platform": "VNIOS",
+    "service_type_configuration": "ALL_V4"
+},
+{
+    "_ref": "member/b25lLnZpcnR1YWxfbm9kZSQy:apollo.ftg.net",
+    "config_addr_type": "IPV4",
+    "host_name": "apollo.ftg.net",
+    "platform": "VNIOS",
+    "service_type_configuration": "ALL_V4"
+}
